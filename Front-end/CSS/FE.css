@@ -1,0 +1,73 @@
+.estadisticas{
+    background-color: #00ffff;
+}
+.PA{
+    position: relative;
+    left: 50%;
+    top: 50%;
+} 
+.Post{
+    position: relative;
+    left: 50%;
+}
+.BotonAdd{
+    background-color:  #0972a4;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 97%; 
+    bottom: 1%;
+
+}
+
+
+
+
+header {
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background: #b8a994;
+}
+
+.left-h {
+    text-align: left;
+    padding: 30px 50px 0 0;
+    font-family: 'Fredoka', sans-serif;
+}
+
+.right-h {
+    text-align: right;
+    padding: 30px 50px 0 0;
+    font-family: 'Fredoka', sans-serif;
+}
+
+nav > a{
+    color:#fff;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+}
+
+.textos-h{
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.logo-h {
+    max-width: 40%;
+    height: auto;
+    position: relative;
+    top: 0%;
+    background-color: #00ffff;
+}
