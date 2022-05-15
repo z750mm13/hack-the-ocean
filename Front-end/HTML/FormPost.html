@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario</title>
-    <link rel="stylesheet" href="./../CSS/FormPost.css">
+    <link rel="stylesheet" href="FormPost.css">
 </head>
 <header></header>
 <body>
@@ -18,15 +18,14 @@
             <label for="lugar">Lugar</label><br>
             <input id="lugar" type="text" placeholder="Lugar donde se realizará"><br>
             <label for="cantidadp">Personas requeridas</label><br>
-            <input id="cantidadp" type="number" placeholder="¿Cuantas personas necesitas?"><br>
+            <input type="number" id="cantidadp" type="text" placeholder="¿Cuantas personas necesitas?"><br>
             <label for="descripción">Describe el evento</label><br>
-            <input id="descripción" type="text" placeholder="Describe el evento, máximo 300 caracteres" maxlength="300"><br>    
+            <input id="descripción" type="text" placeholder="Describe el evento"><br>
+    
         </form>
         <br>
-        <button id="publicar" class="boton">Publicar post</button>
+        <button id="Publicar">Publicar post</button>
     </div>
     
 </body>
-<script src="./../JS/listaDePost.js"></script>
-<script src="./../JS/app.js"></script>
 </html>
