@@ -15,7 +15,7 @@ public class UserController {
     /*
     TODO DELETE THIS METHOD
      */
-    @GetMapping
+    @GetMapping("/users")
     private List<Users> index() {
         return repo.findAll();
     }
