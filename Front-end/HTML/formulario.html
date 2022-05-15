@@ -18,25 +18,15 @@
             <label for="lugar">Lugar</label><br>
             <input id="lugar" type="text" placeholder="Lugar donde se realizará"><br>
             <label for="cantidadp">Personas requeridas</label><br>
-            <input type="number" id="cantidadp" type="text" placeholder="¿Cuantas personas necesitas?"><br>
+            <input id="cantidadp" type="number" placeholder="¿Cuantas personas necesitas?"><br>
             <label for="descripción">Describe el evento</label><br>
-            <input id="descripción" type="text" placeholder="Describe el evento"><br>
-    
-        </form>
-        <hr>
-        <form>
-            <h2>Datos de contacto</h2>
-            <label for="nombre">Nombre</label><br> 
-            <input id="nombre" type="text" placeholder="Nombre"><br>
-            <label for="mail">Email</label><br>
-            <input type="email" id="mail" type="email" placeholder="Agrega tu correo"><br>
-            <label for="telefono">Teléfono</label><br>
-            <input type="tel" id="telefono" type="tel" placeholder="teléfono"><br>
-    
+            <input id="descripción" type="text" placeholder="Describe el evento, máximo 300 caracteres" maxlength="300"><br>    
         </form>
         <br>
-        <button id="publicar">Publicar post</button>
+        <button id="publicar" class="boton">Publicar post</button>
     </div>
     
 </body>
+<script src="post.js"></script>
+<script src="main.js"></script>
 </html>
