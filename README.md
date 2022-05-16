@@ -13,6 +13,8 @@ donando para las diferentes causas.
 
 ![Selección solución](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/Captura%20de%20pantalla%20de%202022-05-15%2018-41-56.png?raw=true)
 
+:astronaut: Que inicie la aventura
+
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image.png?raw=true)
 
 :pencil: Registrate para la acción
