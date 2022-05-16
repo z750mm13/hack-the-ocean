@@ -29,3 +29,15 @@ donando para las diferentes causas.
 
 
 :steam_locomotive: Y unete a nosotros.
+
+:surfer: Nuestros afilidos tienen recompensas:
+
+* :medal_sports: Reportero (Personas detectoras de problemas)
+* :medal_sports: Donador (Personas dispuestas a aportar monetariamente)
+* :medal_sports: Activista (Personas activas en las soluciones)
+
+
+:speedboat:
+
+* :medal_sports: Veterano Activate, comparte, comenta y suma puntos para asender
+* :medal_sports: Moderador... Vuelvete de confianza ayudanos a organizar
