@@ -15,8 +15,17 @@ donando para las diferentes causas.
 
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image.png?raw=true)
 
-![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image-2.png?raw=true)
+Registrate para la acción
 
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image3.png?raw=true)
 
+O inicia la aventura de salvar
+
+![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image-2.png?raw=true)
+
+Publica los problemas
+
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image4.png?raw=true)
+
+
+Y unete a nosotros.
