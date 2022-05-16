@@ -9,8 +9,6 @@ Plataforma para reportar problemas ambientales y voluntarios puedan solucionar. 
 
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image.png?raw=true)
 
-![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image.png?raw=true)
-
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image-2.png?raw=true)
 
 ![Pagina principal](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/MicrosoftTeams-image3.png?raw=true)
