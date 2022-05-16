@@ -9,7 +9,7 @@ Una de las principales dificultades para quienes buscan un cambio es la falta de
 con las tecnologías javascript, java, git, y azure... con la finalidad de reunir a las personas interesadas en cuidar nuestros oceanos. Puedes aportar siendo voluntario o
 donando para las diferentes causas.
 
-[¡Tomemos conciencia y cuidemos nuestros oceanos!](https://github.com/user/repo/blob/branch/other_file.md)
+[¡Tomemos conciencia y cuidemos nuestros oceanos!](https://www.tiktok.com/@oceanreportlaunchx/video/7098163613130673414?is_from_webapp=1&sender_device=pc&web_id=7098161622988293637)
 
 ![Selección solución](https://github.com/z750mm13/hack-the-ocean/blob/main/screenshots/Captura%20de%20pantalla%20de%202022-05-15%2018-41-56.png?raw=true)
 
