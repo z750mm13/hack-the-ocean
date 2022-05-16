@@ -37,7 +37,7 @@ donando para las diferentes causas.
 * :medal_sports: Activista (Personas activas en las soluciones)
 
 
-:speedboat:
+:speedboat: Confianza
 
 * :medal_sports: Veterano Activate, comparte, comenta y suma puntos para asender
 * :medal_sports: Moderador... Vuelvete de confianza ayudanos a organizar
