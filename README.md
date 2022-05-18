@@ -43,3 +43,5 @@ donando para las diferentes causas.
 
 * :medal_sports: Veterano Activate, comparte, comenta y suma puntos para asender
 * :medal_sports: Moderador... Vuelvete de confianza ayudanos a organizar
+
+[¡Se parte de esta gran aventura!](https://www.tiktok.com/@oceanreport/video/7098129269435452677?_t=8SLVV33x6Na&_r=1)
